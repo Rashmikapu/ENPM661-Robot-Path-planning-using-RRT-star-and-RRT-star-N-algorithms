@@ -34,7 +34,7 @@ https://github.com/Sameer-Arjun-S/ENPM661-Robot-Path-planning-using-RRT-star-and
 
 ```
 python3 rrt_star_new.py
-
+```
 
 
 
