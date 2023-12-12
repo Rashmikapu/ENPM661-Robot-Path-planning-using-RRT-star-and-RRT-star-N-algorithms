@@ -30,6 +30,12 @@ https://github.com/Sameer-Arjun-S/ENPM661-Robot-Path-planning-using-RRT-star-and
 ![Node exploration time](https://github.com/Sameer-Arjun-S/ENPM661-Robot-Path-planning-using-RRT-star-and-RRT-star-N-algorithms/assets/112655999/74067cc2-0cfb-4874-a771-3bb1bc4f36f7)
 
 
+# Run the map with dynamic obstacles :
+
+```
+python3 rrt_star_new.py
+
+
 
 
 
